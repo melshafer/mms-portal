@@ -34,3 +34,7 @@ From the command line:
 ```
 ./mms-portal/run.sh
 ```
+
+## Email screenshot
+
+![MMS Portal email screenshot](screenshot.png "MMS Portal email screenshot")
