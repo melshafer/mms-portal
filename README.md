@@ -26,6 +26,8 @@ Rename `config_sample.py` to `config.py`.
 Edit the `config.py` file with the necessary credentials (default/example values are included),
 and uncomment those lines.
 
+Edit the `run.sh` file with your path to the `send_email.py` file.
+
 
 ## How to run
 
