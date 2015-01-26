@@ -1,3 +1,6 @@
+# File: extract_data.py
+# Melanie Shafer, 2015
+
 import config
 import time
 from selenium import webdriver
