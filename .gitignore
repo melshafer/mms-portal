@@ -1,0 +1,13 @@
+############
+# Python
+############
+
+*.pyc
+config.py
+functions.py
+
+############
+# Log files
+############
+
+*.log
