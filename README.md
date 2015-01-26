@@ -32,6 +32,5 @@ and uncomment those lines.
 From the command line:
 
 ```
-cd mms-portal
-./run.sh
+./mms-portal/run.sh
 ```
